@@ -1,6 +1,6 @@
 # IA-Cities-Challenge
 
-![Mapa da Romênia](/BuscaGulosa/static/cities.png)
+![Mapa da Romênia](/Busca_gulosa/static/cities.png)
 
 O desafio apresenta dois algoritmos, um com conceitos de busca gulosa e outro com busca A*.Ambos para partir de uma cidade qualquer e passar pelo caminho mais curto até Bucharest
 
