@@ -18,8 +18,8 @@ Já o Algoritmo com Busca A* considera tanto a distância em linha reta quanto a
     - Para windows: ".\nome-do-ambiente\Scripts\activate
 4. Baixe as dependencias: "pip install -r requirements.txt"
 5. Testar algoritmo de Busca gulosa:
-    1. No arquivo "./Busca_gulosa/main.py", na linha 8, selecione a cidade de partida. (O destino é sempre Curitiba!)
+    1. No arquivo "./Busca_gulosa/main.py", na linha 8, selecione a cidade de partida. (O destino é sempre bucharest!)
     2. Rode o código: "python ./Busca_gulosa/main.py"
 6. Testar algoritmo de busca A*:
-    1. No arquivo "./A estrela/main.py", na linha 8, selecione a cidade de partida. (O destino é sempre Curitiba!)
+    1. No arquivo "./A estrela/main.py", na linha 8, selecione a cidade de partida. (O destino é sempre bucharest!)
     2. Rode o código: "python ./A estrela/main.py"
